@@ -12,8 +12,8 @@ const App = () => {
     <View style={styles.container}>
 
        {/*<AddToCartScreen />*/}
-       {/*<OnlineShoppingScreen /> */}
-      <PaymentSucessfulScreen />
+       <OnlineShoppingScreen />
+      {/*<PaymentSucessfulScreen />*/}
 
       <StatusBar style="auto" />
     </View>
